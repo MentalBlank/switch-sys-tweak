@@ -25,7 +25,7 @@ typedef enum {
 	NacpVideoCaptureMode_Disabled = 0,
 	NacpVideoCaptureMode_Manual = 1,
 	NacpVideoCaptureMode_Automatic = 2,
-} PACKED NacpVideoCaptureMode;
+} __attribute__((packed)) NacpVideoCaptureMode;
 
 typedef struct {
 	NacpLanguageEntry lang_entries[16];
