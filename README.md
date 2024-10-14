@@ -1,7 +1,7 @@
-switch-sys-tweak
+sys-tweak (Nintendo Switch)
 ================
 
-[![Build](https://github.com/mentalblank/switch-sys-tweak/workflows/Build/badge.svg?branch=master)](https://github.com/mentalblank/switch-sys-tweak/actions?query=workflow%3ABuild)
+[CLICK HERE TO DOWNLOAD THE LATEST RELEASE](https://github.com/MentalBlank/switch-sys-tweak/releases/latest/download/systweak.zip)
 
 A collection of miscellaneous mitms that may eventually grow as stuff gets added.
 
